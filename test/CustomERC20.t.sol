@@ -14,7 +14,7 @@ contract CustomERC20Test is Test {
             "Custom Token",
             "CTK",
             6,
-            1_000_000 * 10**6
+            1_000_000 * 10**6;
         );
     }
 
